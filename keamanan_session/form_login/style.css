@@ -1,0 +1,25 @@
+{
+	font-family: sans-serif;
+}
+
+#login {
+	padding-top: 10%;
+	padding-bottom: 10%;
+	padding-left: 20%;
+	padding-right: 20%;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 300px;
+	margin-right: 270px;
+	background: white;
+	font-family: sans-serif;
+}
+
+#input {
+	padding-top: 20px:
+	padding-bottom: 20px;
+}
+
+body {
+	background: yellow;
+}
